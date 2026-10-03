@@ -1,2 +1,2 @@
 # I hate miggers 
-i love yuro
+## i love yuri
